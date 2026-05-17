@@ -1,4 +1,14 @@
+##  Introduction:
+- 👋 Hi, I’m @Ayush-More
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Agentic AI
+- 💞️ I’m looking to collaborate on AI Consultant
+- 📫 How to reach me ayushmore8652@gmail.com
 
+<!---
+Ayush-More/Ayush-More is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush__more__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-more-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmore8652@gmail.com) 
 
